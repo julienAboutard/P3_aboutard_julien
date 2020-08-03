@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="activity_statut_neighbour">Statut Neighbour</string>
+    <string name="avatar">Avatar</string>
+    <string name="return_button">Return button</string>
+    <string name="name">Name</string>
+    <string name="position">Position</string>
+    <string name="number">Number</string>
+    <string name="about_me">About Me</string>
+    <string name="resume">Resume</string>
+    <string name="border">Border</string>
+    <string name="Symbolphone">Phone Symbol</string>
+    <string name="Symbolposition">Position Symbol</string>
+    <string name="Symbolweb">Web Symbol</string>
+    <string name="socialmedia">Social Media</string>
+</resources>
